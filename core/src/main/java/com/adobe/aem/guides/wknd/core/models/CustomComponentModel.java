@@ -23,7 +23,7 @@ public class CustomComponentModel {
     private String something;
 
     public String getSomething() {
-        return something;
+        return something+"test";
     }
 
 }
